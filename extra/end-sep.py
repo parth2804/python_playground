@@ -1,0 +1,5 @@
+print("My", "name", "is", sep="_", end="*")
+print("Monty", "Python.", sep="*", end="*\n")
+print("My", "name", "is", "Monty", "Python.", sep="-")
+print("Programming","Essentials","in",sep = "***" , end = "...")
+print("Python")
